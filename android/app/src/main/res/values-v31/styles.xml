@@ -1,0 +1,10 @@
+<resources>
+    <style name="LaunchTheme" parent="@android:style/Theme.Light.NoTitleBar">
+        <!-- Color de fondo del splash -->
+        <item name="android:windowSplashScreenBackground">@color/splash_background</item>
+        <!-- Desactivar el ícono animado -->
+        <item name="android:windowSplashScreenAnimatedIcon">@null</item>
+        <!-- No mostrar cortina del icono -->
+        <item name="android:windowSplashScreenAnimationDuration">0</item>
+    </style>
+</resources>

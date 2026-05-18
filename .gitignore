@@ -1,0 +1,73 @@
+# Flutter/Dart/Pub related
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+.packages
+.pub-cache/
+build/
+.pub/
+generated_plugin_registrant.dart
+
+# Android
+**/android/**/gradle-wrapper.jar
+**/android/**/gradle/
+**/android/**/local.properties
+**/android/**/GeneratedPluginRegistrant.java
+android/.gradle/
+android/app/debug
+android/app/profile
+android/app/release
+
+# iOS
+ios/Pods/
+ios/.symlinks/
+ios/Flutter/Flutter.framework
+ios/Flutter/Flutter.podspec
+ios/Flutter/Generated.xcconfig
+ios/Flutter/app.flx
+ios/Flutter/ephemeral/
+ios/.flutter-plugins
+ios/Runner.xcworkspace
+ios/Flutter/engine/
+ios/Flutter/GeneratedPluginRegistrant.*
+
+# macOS
+macos/Flutter/ephemeral/
+macos/Pods/
+macos/.flutter-plugins
+macos/.symlinks/
+macos/Flutter/GeneratedPluginRegistrant.swift
+
+# Web
+lib/generated_plugin_registrant.dart
+
+# Windows
+windows/flutter/ephemeral/
+windows/CMakeFiles/
+windows/Flutter/generated_plugin_registrant.cc
+windows/Flutter/generated_plugins.cmake
+
+# Linux
+linux/flutter/ephemeral/
+linux/CMakeFiles/
+linux/Flutter/generated_plugin_registrant.cc
+linux/Flutter/generated_plugins.cmake
+
+# IntelliJ related
+.idea/
+*.iml
+
+# VS Code
+.vscode/
+
+# Other
+*.log
+*.lock
+*.pyc
+*.pdb
+*.DS_Store
+*.swp
+.env
+.env.*
+firebase-debug.log
+firebase-debug.*.log

@@ -1,0 +1,62 @@
+{
+  "project_info": {
+    "project_number": "640393557359",
+    "project_id": "",
+    "storage_bucket": ""
+  },
+  "client": [
+    {
+      "client_info": {
+          "mobilesdk_app_id": "",
+        "android_client_info": {
+          "package_name": "ec.project.ecommerce"
+        }
+      },
+      "oauth_client": [
+        {
+            "client_id": "",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "ec.project.ecommerce",
+            "certificate_hash": "0c8d7f41ec2c4dcd1b57e76768cfdcbad7f286cf"
+          }
+        },
+        {
+            "client_id": "",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "ec.project.ecommerce",
+            "certificate_hash": "4267b97fdf3024e9dbc9f051f7afaf330f8b876f"
+          }
+        },
+        {
+            "client_id": "",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": ""
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+                "client_id": "",
+              "client_type": 3
+            },
+            {
+                "client_id": "",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": ""
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
